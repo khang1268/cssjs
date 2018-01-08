@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://samsora-riverside.com.vn/can-ho-mau/' target='_blank'><img src='http://casagarden.info/wp-content/uploads/2017/12/can-ho-samsora-riverside-1.jpg' width='500px'/><br/>Tiện ích vượt trội</a>. Căn hộ của dự án Samsora.Liên hệ: 0933283055 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://samsora-riverside.com.vn/can-ho-mau/' target='_blank'><img src='http://casagarden.info/wp-content/uploads/2017/12/can-ho-samsora-riverside-1.jpg' width='500px'/><br/>Căn hộ Samsora Riverside</a>.Liên hệ: 0933283055 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
